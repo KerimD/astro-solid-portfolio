@@ -10,6 +10,6 @@
       "@layouts/*": ["src/layouts/*"]
     }
   },
-  "files": [".eslintrc.cjs", "astro.config.ts"],
+  "files": ["astro.config.ts"],
   "include": ["src/**/*"]
 }
