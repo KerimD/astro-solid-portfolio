@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@astrojs/solid-js": "^2.1.1",
+    "@contentful/rich-text-html-renderer": "^16.0.4",
     "astro": "^2.3.2",
+    "contentful": "^10.2.1",
     "solid-js": "^1.4.3"
   },
   "devDependencies": {
